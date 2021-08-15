@@ -1,5 +1,5 @@
 # Пагинация на вью
- https://webprogrammer228.github.io/pagination/ - здесь можно просмотреть как работает. Все динамически работает. Переход на кнопку со страницы 3 задуман специально =)
+ https://webprogrammer228.github.io/pagination/ - здесь можно просмотреть как работает
 
 ## Project setup
 ```
